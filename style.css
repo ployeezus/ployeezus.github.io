@@ -140,9 +140,7 @@ div.pic-card {
     padding-bottom: 10px;
 }
 
-.rotate img {
-    transform: rotate(90deg);
-}
+/* CAD PICTURES */
 
 .img-container {
     height: 350px;
